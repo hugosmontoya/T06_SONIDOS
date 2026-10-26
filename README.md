@@ -34,7 +34,7 @@ El pasa-bajos y el reverb están a un nivel medio, para que se escuche mejor el 
 # 5. Gráfica
 En cuanto a la visualización he usado 3 líneas, que al detectar un cambio alguna de esas líneas produce un sonido de agua, la que está más a la derecha tiene combinada dos sonidos, que es por donde solo se ve prácticamente el metro, combina el sonido del desagüe con el de la cañería, los otros dos del medio y de la izquierda están situados por donde más personas hay caminando y producen sonidos de agua vertiéndose, de debajo del agua y gotas de agua, a más a la izquierda que es donde menos personas pasan se escuchan somo como si fueran algunas gotas de agua.
 
-# 6. Reflexión (¿Qué descubriste al traducir imagen en sonido? ¿Que queda fuera de la escucha de tu sistema? Propón dos mejoras:)
+# 6. Reflexión
 
 Al traducir la imagen a sonido descubrí la importancia que tiene el audio en cuanto a lo visual y como cambiando el sonido que produce el movimiento en un video es como si estuvieses viendo otra imagen prácticamente diferente, un video de un metro donde el sonido es de agua y de una máquina, hace que lo que estamos viendo parezca una escena muy diferente. Resumidamente descubrí la importancia del sonido y me hizo pensar que incluso puede llegar a ser más importante que lo visual.
 
