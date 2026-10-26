@@ -4,7 +4,7 @@ Encargo 06 de oír la luz: Flujo de personas en metro que genera un sonido de ag
 # 1. Concepto:
 
 En el metro quiero traducir el caudal de personas a un sonido, cuantas más personas pasen más sonido habrá.
-Quiero representar como el metro es una máquina que trafica personas y que el metro es una máquina que transporta un fluido, ese fluido son las personas. (Eso contesta a la nueva forma de escuchar lo que vemos, personas saliendo del metro) y como a diferentes horas la máquina del metro funciona más o menos, quiero que se vean las personas como un simple fluido y despersonificarlas.
+Quiero representar como que el metro es una máquina que transporta un fluido, ese fluido son las personas. (Eso contesta a la nueva forma de escuchar lo que vemos, personas saliendo del metro) y como a diferentes momentos la máquina del metro funciona más o menos, quiero que se vean las personas como un simple fluido y despersonificarlas.
 
 # 2. Banco de sonidos:
 Obtenidos del freesound.org
@@ -22,16 +22,19 @@ Luego el agua sumergida es como que se escucha porque siempre que el metro este 
 El agua cayendo, quiere mostrar como las personas salen del metro, como caen desde el metro hasta que se ponen a caminar, el sonido del agua que cae al concreto fortalece esto.
 El sonido de la tubería del agua quiere representar el sonido de como las personas caminan por los andenes una vez salen de su vagón.
 
-# 3. Disparador visual:
+# 3. Disparador visual
+
 La idea es un video en timelapse de las cámaras de un metro que a medida que las personas salen de su vagón harán el ruido del agua fluyendo, y cuantas más personas haya, (es decir más parte de la pantalla lo ocupen el movimiento de personas) más fuerte se hara ese sonido. A diferentes horas del día el metro tiene más flujo o menos pero mientras está abierto sigue funcionando.
 
-# 4. Parámetros de sonido (Explicar el por que de cada uno)
+# 4. Parámetros de sonido 
+
 En cuanto a la detección no he querido que tampoco tenga un umbral demasiado bajo, ya que el vídeo no es de mucha calidad y no hace falta que se aprecien demasiados detalles, lo que hace que produzca el sonido es de un tamaño bastante grande, como se puede apreciar son masas de personas. Y cuanto más bajo es el umbral, el proyecto funciona peor y se traba.
 
 El sonido del fondo está al máximo para que se pueda apreciar ese sonido de máquina que funciona constantemente.
 El pasa-bajos y el reverb están a un nivel medio, para que se escuche mejor el sonido original que ese de agua, al cambiar el parámetro pasa-bajos y el reverb deja de sonar como el sonido original y parece más un sonido irreconocible.
 
 # 5. Gráfica
+
 En cuanto a la visualización he usado 3 líneas, que al detectar un cambio alguna de esas líneas produce un sonido de agua, la que está más a la derecha tiene combinada dos sonidos, que es por donde solo se ve prácticamente el metro, combina el sonido del desagüe con el de la cañería, los otros dos del medio y de la izquierda están situados por donde más personas hay caminando y producen sonidos de agua vertiéndose, de debajo del agua y gotas de agua, a más a la izquierda que es donde menos personas pasan se escuchan somo como si fueran algunas gotas de agua.
 
 # 6. Reflexión
