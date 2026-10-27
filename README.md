@@ -29,6 +29,7 @@ El sonido del fondo está al máximo para que se pueda apreciar ese sonido de m�
 El pasa-bajos y el reverb están a un nivel medio, para que se escuche mejor el sonido original que ese de agua, al cambiar el parámetro pasa-bajos y el reverb deja de sonar como el sonido original y parece más un sonido irreconocible.
 
 # 5. Gráfica
+Cabe destacar que estos parámetros de la gráfica se pueden modificar en el sistema, a gusto de quien lo use y los paramétros de los que se van a hablar a continuación son los usados para el vídeo.
 En cuanto a la visualización he usado 4 líneas, que al detectar un cambio alguna de esas líneas produce un sonido de agua, la que está más a la derecha tiene combinada dos sonidos, que es por donde solo se ve prácticamente el metro, combina el sonido del desagüe con el de la cañería, los otros dos del medio y de la izquierda están situados por donde más personas hay caminando y producen sonidos de agua vertiéndose, de debajo del agua y gotas de agua, a más a la izquierda que es donde menos personas pasan se escuchan somo como si fueran algunas gotas de agua.
 
 # 6. Reflexión 
